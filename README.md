@@ -6,3 +6,5 @@ Načrt za izdelavo projekta:
 3. Za vsako podskupino posebej bom naredila graf, ki bo predstavljal število žrtev za posamezne epidemije.
 4. Naredila bom zemljevid sveta, kjer bom označila države, kjer so bile epidemije, velikost krogca pa bo predstavljal število žrtev epidemije.
 5. Projektu bom dodala slike za boljšo predstavitev.
+
+Pripravila: Hana Lukež
