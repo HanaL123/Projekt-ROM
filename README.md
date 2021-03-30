@@ -1,5 +1,5 @@
 # Projekt-ROM
-##NASLOV: Epidemije skozi čas
+## NASLOV: Epidemije skozi čas
 Načrt za izdelavo projekta:
 1. Pridobivanje podatkov. Uporabila bom Wolfram data repository.
 2. Epidemije bom razdelila na štiri podskupine: gripe, kuge, kolere in črne koze. Vsako podskupino bom opisala, ter naredila časovne premice za vsako izmed njih, na kateri bom označila, kdaj so se odvijale določene epidemije.
